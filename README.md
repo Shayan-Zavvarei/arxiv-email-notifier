@@ -1,4 +1,4 @@
-#  arXiv Daily Email Notification Script
+#  Arxiv Daily Email Notification Script
 
 *A lightweight Python script to automatically fetch daily arXiv papers from specified categories and email them to your Gmail inbox.*
 
